@@ -1,0 +1,68 @@
+---
+title: "Group Project Proposal"
+author: "Hannah Hill, Imani Sherrill, Shelby Lauter, Maitreyi Natarajan"
+date: "4/5/2022"
+output: html_document
+---
+
+2. Team proposal: Based on step one, students will form teams of 3-4 people. All teams need to submit
+a project proposal on Canvas no later than Wednesday, April 6th at 11:59PM. Only one proposal
+is needed per team. The proposal should be 2-3 paragraphs and include the names on the team, a
+brief description of the motivating question, all data sources that will be used, a description of the
+approach, and the two or three of the biggest anticipated technical hurdles in the project. Please cite
+any projects that you are emulating or building upon from other classes or other researchers. Late
+submissions will immediately receive a grade of zero.
+
+
+# Motivating Question
+ideas
++ see how much states are spending on social services for women then machine learning predicting how much will be spent per woman
++ mapping how far away women are in rural areas away from social services to highlight the gap in services for rural areas
+--> comparing in-state 
++figuring out service offices 
++ discuss nearest city and proximity to rural areas. 
++ question of concentration of tribes in California??? becomes outlier in disparity, super small percentage.
++ WIC and SNAP programs 
++WIC redeemable benefits, we could compare baseline and endline data sets and determine the % of effectiveness of this program on women and children. if there is a low % we could map that back to the proximity of the neighborhood to the WIC office/ social services office. we could predict using machine relating to the proximity and whether or not reedemable benefits are used??? 
+
+
+
+women in the workforce is also an idea
+
+focusing on children and childcare
+https://data.ca.gov/dataset/women-infants-and-children-wic-authorized-vendors1 WIC
+# Data Sources
+Opportunity Insights, 
+
+https://cacensus.maps.arcgis.com/apps/webappviewer/index.html?id=48be59de0ba94a3dacff1c9116df8b37 Hard to Count Index
+
+https://data.ca.gov/dataset/abcd-350-annual-recipient-report
+
+IPUMS , use API
+
+https://www.cdss.ca.gov/inforesources/calworks
+
+https://www.census.gov/library/stories/state-by-state/california-population-change-between-census-decade.html
+
+https://data.ca.gov/dataset/dfa256-food-stamp-program-participation-and-benefit-issuance-report
+
+https://www.cnbc.com/2019/04/10/working-women-and-the-child-care-equation-no-one-has-it-figured-out.html
+
+https://data.ca.gov/dataset/california-women-infants-and-children-program-redemption-by-county/resource/f2c0343b-796c-45c9-ae3c-1b7ef12c324e
+
+https://data.ca.gov/dataset/percentage-of-women-who-have-received-preventative-services-lghc-indicator
+
+https://data.ca.gov/dataset/women-infants-and-children-wic-authorized-vendors1
+
+https://www.calwic.org/storage/documents/reports/stratplan_brochure.pdf
+
+
+
+# Approach
+
+# Anticipated Hurdles
+
+# Building Upon Past Projects
+https://reenvisioning-rural-america.urban.org/
+
+https://fullerproject.org/story/child-care-crisis-black-mothers-covid-pandemic-economy/
